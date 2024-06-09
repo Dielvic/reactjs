@@ -847,7 +847,7 @@ Now, Copy the ALB-DNS and go to your Domain Provider in this case AWS Route 53 i
 
 ![Screenshot 2024-02-28 at 6 42 29 PM](https://github.com/cloudcore-hub/Kubernetes-DevSecOps-CI-CD-Project/assets/88560609/f5d7bcee-8238-4298-aefd-e017763e426e)
 
-### Step 13: Creating an A-Record in AWS Route 53 Using ALB DNS
+#### Step 13: Creating an A-Record in AWS Route 53 Using ALB DNS
 Create A-records using DNS service in aws [Route53].
 Follow these steps to create an A-record in AWS Route 53 that points to your Application Load Balancer (ALB).
 
