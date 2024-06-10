@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: quizapp.cloudgeekcoredk.com
+    - host: quizapp.cloudgeekcoredk.link
       http:
         paths:
           - path: /api/questions
